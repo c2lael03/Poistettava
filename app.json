@@ -1,0 +1,28 @@
+{
+  "expo": {
+    "name": "saving-data-to-phones-memory",
+    "slug": "snack-c0b0cea2-eb27-4234-87cd-8c1b9e7ec263",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/adaptive-icon.png",
+        "backgroundColor": "#ffffff"
+      }
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    },
+    "description": "https://moodle.oulu.fi/pluginfile.php/2431488/mod_resource/content/1/flatlist_asynstorage.pdf"
+  }
+}
